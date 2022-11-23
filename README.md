@@ -2,7 +2,7 @@
 > Craccken artworks and logos
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Craccken/artworks/main/craccken-artworks-banner.png">
+    <img src="https://github.com/Craccken/assets/blob/main/image/craccken-artworks-banner.png?raw=true">
 </p>
 
 <p align="center">

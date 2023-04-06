@@ -1,5 +1,5 @@
 # Artworks
-> Craccken artworks and logos
+> Craccken artwork and design
 
 <p align="center">
     <img src="https://github.com/Craccken/assets/blob/main/image/craccken-artworks-banner.png?raw=true">

@@ -9,6 +9,9 @@
    id="svg1973"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="craccken-logo-and-text.svg"
+   inkscape:export-filename="craccken-logo-and-text.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -55,7 +58,7 @@
     <g
        id="g8742"
        transform="translate(-134.27575,-100.84725)"
-       style="opacity:0.3">
+       style="opacity:0.2">
       <g
          id="g7084">
         <path
@@ -71,12 +74,12 @@
          xml:space="preserve"
          transform="matrix(0.69252296,0,0,0.69252296,-491.53524,-150.52959)"
          id="text32607"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61.058px;line-height:1.25;font-family:'Bebas Kai';-inkscape-font-specification:'Bebas Kai';letter-spacing:3.82057px;white-space:pre;shape-inside:url(#rect32609);display:inline;fill:#f5f5f5;fill-opacity:1;opacity:1"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61.058px;line-height:1.25;font-family:'Bebas Kai';-inkscape-font-specification:'Bebas Kai';letter-spacing:3.82057px;white-space:pre;shape-inside:url(#rect32609);display:inline;opacity:1;fill:#f5f5f5;fill-opacity:1"><tspan
            x="1004.7539"
            y="438.94751"
-           id="tspan2879"><tspan
+           id="tspan2903"><tspan
              style="font-weight:bold;font-family:Suboleya;-inkscape-font-specification:'Suboleya Bold'"
-             id="tspan2877">Craccken</tspan></tspan></text>
+             id="tspan2901">Craccken</tspan></tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-4.473112,-4.7625003)"
@@ -84,9 +87,9 @@
          style="font-size:26.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:7px;white-space:pre;shape-inside:url(#rect1412);display:inline;fill:#f5f5f5;fill-opacity:1"><tspan
            x="802.82031"
            y="648.90177"
-           id="tspan2883"><tspan
+           id="tspan2907"><tspan
              style="font-family:Montserrat;-inkscape-font-specification:Montserrat"
-             id="tspan2881">Futuristic like Operating System</tspan></tspan></text>
+             id="tspan2905">Futuristic like Operating System</tspan></tspan></text>
     </g>
   </g>
 </svg>
